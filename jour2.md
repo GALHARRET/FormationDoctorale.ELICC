@@ -1,4 +1,4 @@
-jour2
+JOUR 2 : packages ggplot2 - dplyr : manipulations de graphiques et tableaux
 ================
 JM GALHARRET
 12/16/2019
