@@ -11,6 +11,6 @@ Pour chacun des jours vous avez accès à une partie des codes que nous avons ut
 - JOUR 1 : [Introduction à R et RStudio](jour1.md)
 - JOUR 2 : [package dplyr et manipulation de tableaux](jour2.md)
 
-- JOUR 3 : [Modèle linéaire + bootstrap](https://galharret.github.io/FormationDoctorale.github.io/jour3)
+- JOUR 3 : [Modèle linéaire + bootstrap](jour3.md)
 
 - JOUR 4 : Présentation de JASP et JAMOVI.  Cette page n'est pas incluse dans le site ... 
