@@ -1,7 +1,6 @@
 JOUR 1 : Introduction à R/R Studio et manipulations de base
 ================
 
-[Retour à la page d'accueil](README.md)
 
 # Introduction :
 
