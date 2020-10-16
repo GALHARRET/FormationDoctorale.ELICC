@@ -1,5 +1,8 @@
-JOUR 3
+JOUR 3 Modèle linéaire et Boostrap
 ================
+[Retour à la page d'accueil](README.md)
+
+
 
 # Un exemple de modélisation :
 
